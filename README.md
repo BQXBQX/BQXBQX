@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BQXBQX
-- 👀 I’m interested in VUE
-- 🌱 I’m currently learning REACT
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me b22050106@njupt.edu.cn
 
  ![](https://github-readme-stats.vercel.app/api?username=bqxbqx&show_icons=true)

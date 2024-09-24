@@ -1,50 +1,36 @@
-# 👋 Hello, I'm @BQXBQX
+Hello World! 👋
 
-I’m a **Frontend Developer** passionate about crafting engaging web experiences and currently diving deep into **Rust** for backend and systems programming.
-
-- 🌱 Always learning new technologies, recently exploring **Rust** and **WebAssembly**.
-- 👀 Particularly interested in **UI/UX design**, **React**, and **Next.js**.
-- 📫 Feel free to reach out: b22050106@njupt.edu.cn
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-💡 **Languages I’m Learning**:
-
-```rust
-fn main() {
-    println!("Exploring Rust, TypeScript and more!");
-}
 ```
+~> cat resume.txt
+1. I'm a **Frontend Developer** passionate about creating engaging web experiences.
+2. Currently exploring **Rust** for backend and systems programming.
+3. Technologies I'm focused on:
+   - **React**, **Next.js**, **TypeScript**
+   - **Rust**, **WebAssembly**
+4. Email me if you'd like to collaborate: [b22050106@njupt.edu.cn](mailto:b22050106@njupt.edu.cn)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bqxbqx&show_icons=true&theme=radical" alt="BQXBQX's GitHub Stats" />
-</p>
+~> ls projects
+- React UI library for internal projects
+- Rust-based CLI tool for static site generation
+- Next.js web application with SSR and SSG optimization
+- WebAssembly performance experiments
 
-## 🔥 Recent GitHub Activity
+~> finger bqxbqx
+Login: bqxbqx                          Name: BQXBQX
+Directory: /home/bqxbqx                Shell: /bin/zsh
+Projects:
+  - Building exciting frontend projects with **React** & **Next.js**
+  - Improving proficiency in **Rust**
+  - Exploring **WebAssembly** for web performance
+  - Experimenting with **UI/UX** design patterns
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bqxbqx&theme=react-dark" alt="BQXBQX's GitHub Activity Graph" />
-</p>
+Plan:
+  Continue learning and experimenting with new technologies.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bqxbqx&theme=radical" alt="BQXBQX's GitHub Trophy" />
-</p>
-
-## ⚙️ Currently Working On
-
-- Improving my Rust skills
-- Building exciting frontend projects with React & Next.js
-- Exploring WebAssembly
+~> ls socials
+GitHub: @bqxbqx
+Gmail: boqingxin14@gmail.com
+```
 
 <!---
 BQXBQX/BQXBQX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

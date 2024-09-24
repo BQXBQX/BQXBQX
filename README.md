@@ -1,7 +1,7 @@
 Hello World! 👋
 
 ```
-~> cat resume.txt
+~> cat resume.md
 1. I'm a **Frontend Developer** passionate about creating engaging web experiences.
 2. Currently exploring **Rust** for backend and systems programming.
 3. Technologies I'm focused on:

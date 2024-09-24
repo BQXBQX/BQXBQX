@@ -1,36 +1,35 @@
 `Hello World! 👋`
 
-```
-~> cat resume.md
-1. I'm a **Frontend Developer** passionate about creating engaging web experiences.
-2. Currently exploring **Rust** for backend and systems programming.
+<pre>
+ ~> <strong>cat resume.txt</strong>
+1. I'm a <strong>Frontend Developer</strong> passionate about creating engaging web experiences.
+2. Currently exploring <strong>Rust</strong> for backend and systems programming.
 3. Technologies I'm focused on:
-   - **React**, **Next.js**, **TypeScript**
-   - **Rust**, **WebAssembly**
-4. Email me if you'd like to collaborate: [b22050106@njupt.edu.cn](mailto:b22050106@njupt.edu.cn)
+   - <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>
+   - <strong>Rust</strong>, <strong>WebAssembly</strong>
+4. Email me if you'd like to collaborate: <a href="mailto:b22050106@njupt.edu.cn">b22050106@njupt.edu.cn</a>
 
-~> ls projects
-- React UI library for internal projects
-- Rust-based CLI tool for static site generation
-- Next.js web application with SSR and SSG optimization
-- WebAssembly performance experiments
+ ~> <strong>ls projects</strong>
+- <a href="#">React UI library</a> for internal projects
+- <a href="#">Rust-based CLI tool</a> for static site generation
+- <a href="#">Next.js web application</a> with SSR and SEO optimization
+- <a href="#">WebAssembly performance experiments</a>
 
-~> finger bqxbqx
-Login: bqxbqx                          Name: BQXBQX
+ ~> <strong>finger bqxbqx</strong>
+Login: bqxbqx                          Name: BQX
 Directory: /home/bqxbqx                Shell: /bin/zsh
 Projects:
-  - Building exciting frontend projects with **React** & **Next.js**
-  - Improving proficiency in **Rust**
-  - Exploring **WebAssembly** for web performance
-  - Experimenting with **UI/UX** design patterns
-
+  - Improving proficiency in <strong>Rust</strong>
+  - Building exciting frontend projects with <strong>React</strong> & <strong>Next.js</strong>
+  - Exploring <strong>WebAssembly</strong> for web performance
+  - Experimenting with <strong>UI/UX</strong> design patterns
 Plan:
   Continue learning and experimenting with new technologies.
 
-~> ls socials
-GitHub: @bqxbqx
-Gmail: boqingxin14@gmail.com
-```
+ ~> <strong>ls socials</strong>
+GitHub: <a href="https://github.com/bqxbqx">bqxbqx</a>  
+Fediverse: <a rel=me href="https://tilde.zone/@bqxbqx">@bqxbqx@tilde.zone</a>
+</pre>
 
 <!---
 BQXBQX/BQXBQX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

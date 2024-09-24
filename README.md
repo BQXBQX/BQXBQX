@@ -12,7 +12,7 @@
  ~> <strong>ls projects</strong>
 - <a href="#">React UI library</a> for internal projects
 - <a href="#">Rust-based CLI tool</a> for static site generation
-- <a href="#">Next.js web application</a> with SSR and SEO optimization
+- <a href="#">Next.js web application</a> with SSR and SSG optimization
 - <a href="#">WebAssembly performance experiments</a>
 
  ~> <strong>finger bqxbqx</strong>
@@ -28,7 +28,6 @@ Plan:
 
  ~> <strong>ls socials</strong>
 GitHub: <a href="https://github.com/bqxbqx">bqxbqx</a>  
-Fediverse: <a rel=me href="https://tilde.zone/@bqxbqx">@bqxbqx@tilde.zone</a>
 </pre>
 
 <!---

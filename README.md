@@ -29,11 +29,6 @@ Plan:
  ~> <strong>ls socials</strong>
 GitHub: <a href="https://github.com/bqxbqx">bqxbqx</a>  
 </pre>
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bqxbqx&show_icons=true&theme=radical" style="max-width: 45%;height:200px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bqxbqx&theme=monokai-metallian" style="max-width:45%;height:200px" />
-</div>
-
 
 <!---
 BQXBQX/BQXBQX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

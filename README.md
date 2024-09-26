@@ -29,6 +29,8 @@ Plan:
  ~> <strong>ls socials</strong>
 GitHub: <a href="https://github.com/bqxbqx">bqxbqx</a>  
 </pre>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bqxbqx&show_icons=true&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bqxbqx&theme=monokai-metallian)
 
 <!---
 BQXBQX/BQXBQX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

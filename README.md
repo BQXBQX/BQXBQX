@@ -11,9 +11,7 @@
 
  ~> <strong>ls projects</strong>
 - <a href="#">React UI library</a> for internal projects
-- <a href="#">Rust-based CLI tool</a> for static site generation
 - <a href="#">Next.js web application</a> with SSR and SSG optimization
-- <a href="#">WebAssembly performance experiments</a>
 
  ~> <strong>finger bqxbqx</strong>
 Login: bqxbqx                          Name: BQX

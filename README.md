@@ -3,7 +3,7 @@
 <pre>
  ~> <strong>cat resume.txt</strong>
 1. I'm a <strong>Frontend Developer</strong> passionate about creating engaging web experiences.
-2. Currently exploring <strong>Rust</strong> for backend and systems programming.
+2. Currently exploring <strong>Rust</strong> for frontend programming.
 3. Technologies I'm focused on:
    - <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>
    - <strong>Rust</strong>, <strong>WebAssembly</strong>
